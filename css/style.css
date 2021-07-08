@@ -1,0 +1,36 @@
+.jumbotron {
+  margin-top: 55px;
+  background-color: #007bff;
+  min-height: 500px;
+}
+.jumbotron img {
+  height: 200px;
+  border-color: beige;
+  border-radius: 50%;
+  border: 3px solid #666;
+}
+hr {
+  width: 200px;
+  border-top: 4px solid rgb(0, 0, 0);
+}
+i {
+  margin-right: 3px;
+}
+section {
+  min-height: 600px;
+}
+.portfolio {
+  background-color: #007bff;
+}
+/* .contak form {
+  margin-left: 20%;
+} */
+footer {
+  height: 50px;
+  background-color: #999;
+}
+footer p {
+  text-align: center;
+  margin-top: 10px;
+  size: 1em;
+}
